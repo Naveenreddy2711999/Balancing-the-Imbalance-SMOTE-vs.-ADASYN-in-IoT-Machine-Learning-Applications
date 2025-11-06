@@ -103,3 +103,35 @@ plt.title("Model Accuracy Comparison (SMOTE vs ADASYN)")
 plt.ylabel("Accuracy")
 plt.legend()
 plt.show()
+
+🧩 Key Insights
+
+SMOTE created clean, evenly distributed synthetic data → better generalization.
+
+ADASYN focused too heavily on complex regions → added minor noise.
+
+Random Forest consistently achieved the best accuracy and robustness.
+
+🏁 Conclusion
+
+Handling data imbalance significantly improves IoT intrusion detection accuracy.
+SMOTE + Random Forest is the most effective combination, delivering near-perfect accuracy and stability.
+This approach can be extended to other cybersecurity and anomaly detection problems in IoT networks.
+
+📂 Repository Structure
+SMOTE-vs-ADASYN-IoT-ML-Project/
+│
+├── SMOTE_vs_ADASYN_IoT_Project.ipynb   # Main Colab Notebook
+├── README.md                            # Project Documentation
+├── LICENSE                              # MIT License
+
+🪪 License
+
+This project is licensed under the MIT License — you’re free to use, modify, and distribute it with attribution.
+
+💬 Contact
+
+Author: Tiyyagura Naveen Reddy
+📧 Email: naveenreddynavee999@gmail.com
+]
+🌐 GitHub: github.com/Naveenreddy2711999
