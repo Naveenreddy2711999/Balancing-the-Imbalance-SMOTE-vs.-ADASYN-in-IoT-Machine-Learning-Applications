@@ -2,7 +2,6 @@
 
 ### 👨‍💻 Author: [Tiyyagura Naveen Reddy](https://github.com/Naveenreddy2711999)
 ### 📅 Year: 2025  
-### 🏫 Final Year Project — B.Tech CSE (Data Science)
 
 ---
 
