@@ -55,7 +55,6 @@ Four supervised ML models were trained and compared:
 * Precision (Macro Avg)
 * Recall (Macro Avg)
 * F1-Score (Macro Avg)
-* Confusion Matrix
 
 ---
 
@@ -162,6 +161,22 @@ plt.show()
 * **Hybrid SMOTE + ADASYN** increased complexity without significant gains.
 
 ### 🏆 Final Recommendation
-SMOTE combined with Random Forest or XGBoost provides the most reliable and accurate intrusion detection performance for highly imbalanced IoT datasets
+
+> **SMOTE combined with Random Forest or XGBoost provides the most reliable and accurate intrusion detection performance for highly imbalanced IoT datasets.**
+
+---
+
+## 🪪 License
+
+This project is licensed under the **MIT License**.
+
+You are free to:
+
+* Use
+* Modify
+* Distribute
+* Publish
+
+this project **with proper attribution to the author**.
 
 ---
