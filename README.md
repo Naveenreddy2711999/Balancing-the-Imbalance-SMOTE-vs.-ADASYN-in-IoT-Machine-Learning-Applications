@@ -162,7 +162,6 @@ plt.show()
 * **Hybrid SMOTE + ADASYN** increased complexity without significant gains.
 
 ### 🏆 Final Recommendation
-
-> **SMOTE combined with Random Forest or XGBoost provides the most reliable and accurate intrusion detection performance for highly imbalanced IoT datasets.**
+SMOTE combined with Random Forest or XGBoost provides the most reliable and accurate intrusion detection performance for highly imbalanced IoT datasets
 
 ---
